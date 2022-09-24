@@ -1,0 +1,23 @@
+.summary {
+    width: 500px;
+    font-size: calc(1.5vmin);
+}
+
+.name {
+    font-size: calc(20px+ 2vmin);
+}
+
+.HomePage {
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: space-around;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
